@@ -9,3 +9,11 @@ for object detection.
 
 Due to limited capacity, the model was only trained for a small number of epochs. If the model is trained for a longer
 amount of time, improved results should be available.
+
+Citations:
+Xiaosong Wang, Yifan Peng, Le Lu, Zhiyong Lu, MohammadhadiBagheri, Ronald M. Summers.ChestX-ray8: Hospital-scale 
+Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases,
+IEEE CVPR, pp. 3462-3471,2017
+
+P. Rajpurkar et al. (Dec. 2017). ‘‘CheXNet: Radiologist-level pneumonia detection on chest X-rays with deep learning.’’ [Online]. Available:
+https://arxiv.org/abs/1711.05225
