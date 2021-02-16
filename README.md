@@ -10,8 +10,8 @@ for object detection.
 Due to limited capacity, the model was only trained for a small number of epochs. If the model is trained for a longer
 amount of time, improved results should be available.
 
-Citations:
 
+Citations:\n
 Xiaosong Wang, Yifan Peng, Le Lu, Zhiyong Lu, MohammadhadiBagheri, Ronald M. Summers.ChestX-ray8: Hospital-scale 
 Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases,
 IEEE CVPR, pp. 3462-3471,2017
